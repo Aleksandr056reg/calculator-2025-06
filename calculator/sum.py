@@ -1,5 +1,5 @@
-"""Сумма"""
+"""SUMMMMMM"""
 
 def sum(a, b):
-    """Функция суммы"""
+    """FUNCTION SUMMMMM"""
     return a + b
